@@ -1,5 +1,5 @@
 # MathGenius
-## Author: @m0riart3
+## Author: [m0riart3](https://twitter.com/Carlosflethesmo)
 ## Descripción
 ![Descripcion]()
 
