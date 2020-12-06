@@ -1,7 +1,5 @@
 # MathGenius
-```
-Author: @m0riart3
-```
+## Author: @m0riart3
 ## Descripción
 ![Descripcion]()
 
