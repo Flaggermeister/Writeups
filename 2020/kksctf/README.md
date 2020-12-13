@@ -1,5 +1,9 @@
-# WriteUps kksctf
+
+# Writeups KKSCTF
 
 ## Crypto
 
-## Forensics
+- [fonction_spéciale]() Author: [W1C3](https://twitter.com/Josewice7)
+
+## Forense
+
