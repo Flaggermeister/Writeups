@@ -3,7 +3,7 @@
 
 ## Crypto
 
-- [fonction_spéciale]() Author: [W1C3](https://twitter.com/Josewice7)
+- [fonction_spéciale](https://github.com/J-W1C3/Writeups/blob/main/2020/KKSCTF/fonction_sp%C3%A9ciale/README.md) Author: [W1C3](https://twitter.com/Josewice7)
 
 ## Forense
 
